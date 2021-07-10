@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      React S3 Codebuild deploy
+      React S3 Codebuild deploy 
     </div>
   );
 }
